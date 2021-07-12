@@ -19,9 +19,9 @@
     <description>This is a keystroke launcher for Windows and macOS.</description>
     <releaseNotes>https://github.com/oliverschwendener/ueli/releases</releaseNotes>
     
-	<dependencies>
-		<dependency id="chocolatey-core.extension" version="1.3.5.1" />
-	</dependencies>
+    <dependencies>
+      <dependency id="chocolatey-core.extension" version="1.3.5.1" />
+    </dependencies>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
