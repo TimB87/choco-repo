@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>AquaSnap</id>
-    <version>1.23.10</version>
+    <version>1.23.11</version>
     <title>AquaSnap</title>
     <authors>Nurgo Software</authors>
     <owners>Jivko Kolev, Tim Biermann</owners>
